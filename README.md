@@ -1,2 +1,2 @@
 # se3200
-Repo for my work in Web App Dev 1
+repo for my work in Web App Dev 1

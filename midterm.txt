@@ -1,0 +1,35 @@
+
+
+###Data:
+	Arrays & objects
+	JSON - JavaScript object notation [{"key":"value"}]
+	Urlencoded query strings - name=Lincoln%20Nordquist&key2=value2
+	Ajax - fetch API (asynchronous vs synchronous)
+	async (chron = time)
+
+###DOM - family tree
+	JavaScript - can update and change DOM elements
+	selectors - (queries, manipulation, insertion, document.querySelector()) 	Dev tools - Network tab
+	User Events - (target element, handler/listeners)
+###Async
+	CORS & SOP
+
+###HTTP - Protocol
+	GET & POST requests & responses
+	GET - *Path, *Method
+	POST - *Status
+	URL Parts (http://domainname.com/path)
+	Status Codes, Methods, HEaders, Body
+	200 - Ok
+	404 - not found
+	500 - internal server error
+	304 - redirects, etc
+	Methods
+	Headers
+	Body 
+
+###Restful API’s
+	Idempotent
+	CORS & SOP - (Cross Origin Resource Sharing) & SOP (same origin policy - no outside origin resource sharing)
+	Route patterns
+

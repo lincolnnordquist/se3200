@@ -1,0 +1,11 @@
+** Shared vs Physical vs Virtual vs PaaS(platform as a service) vs Future **
+
+Shared (wordpress, go daddy, bluehost, etc) - PROS: cheap, low maintenance beginner friendly. CONS: limitations, performance, reliability, security
+
+Physical (laptop, raspberry pie, data center) - PROS: control, cusotmization, flexibility. CONS: management, high cost and responsibility, need physical space, security risks.
+
+Virtual (AWS, Google Compute Engine, Digital Ocean) - PROS: scalability, no physical space, software and OS control. CONS: cost, security, software responsibility.
+
+Paas (AWS, Heroku, Railway) - PROS: package boiletplate setups, quick, scalability, automation. CONS: expensive, contracts, lose full control.
+
+Future (serverless, hybrid, etc)

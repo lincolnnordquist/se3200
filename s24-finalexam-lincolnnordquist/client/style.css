@@ -1,0 +1,92 @@
+.ticket {
+    background-color: purple;
+    border: 2px solid gold;
+    padding: 20px;
+    margin: 10px;
+    color: white;
+    border-radius: 10px;
+}
+
+.ticket .entrant-name,
+.ticket .entrant-age,
+.ticket .guest-name {
+    font-weight: bold;
+}
+section {
+    margin: 0 auto;
+  }
+
+#active-tickets{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 20px;
+    flex-direction: column;
+}
+
+#active-tickets h2 {
+    color: purple;
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 20px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    font-family: 'Courier New', Courier, monospace;
+    letter-spacing: 2px;
+}
+
+#add-ticket {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+#add-ticket input {
+    width: 200px;
+    padding: 10px;
+    border: 2px solid purple;
+    border-radius: 5px;
+    background: white;
+    color: purple;
+}
+
+#add-ticket button {
+    width: 100px;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background: purple;
+    color: white;
+    cursor: pointer;
+}
+
+#add-ticket button:hover {
+    background: rgb(75, 0, 75);
+}
+
+body {
+    background-color: #f3f3f3; 
+    font-family: Arial, sans-serif;
+    color: #333; 
+    padding: 20px;
+}
+
+h1 {
+    color: purple; 
+    text-align: center; 
+}
+
+#container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#logo {
+    /* center the logo */
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
